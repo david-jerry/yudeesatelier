@@ -1,6 +1,6 @@
 # Yudees_Atelier: Protocol_Documentation
 
-This is a high-performance, architecturally-driven E-commerce and Estate Management platform built for the **Yudees Atelier** ecosystem. The project prioritizes clean code, type-safe data handling, and an "Atelier" aesthetic—blending minimalist luxury with technical precision.
+This is a high-performance, architecturally-driven E-commerce platform built for the **Yudees Atelier** ecosystem. The project prioritizes clean code, type-safe data handling, and an "Atelier" aesthetic—blending minimalist luxury with technical precision.
 
 ---
 
