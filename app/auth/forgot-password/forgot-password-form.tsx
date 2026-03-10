@@ -33,7 +33,6 @@ export function ForgotPasswordForm({
 		reset,
 		formState: { errors },
 	} = useForm<EmailFormData>({
-		// @ts-expect-error - Zod schema is compatible with RHF
 		resolver: zodResolver(emailSchema),
 		defaultValues: { email: "" },
 		mode: "onTouched",

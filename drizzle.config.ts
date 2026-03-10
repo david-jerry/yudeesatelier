@@ -8,7 +8,7 @@ export default defineConfig({
     verbose: true,
     strict: false,
     casing: "snake_case",
-    // schemaFilter: ['public'],
+    schemaFilter: ['public'],
     dbCredentials: {
         url: config.DATABASE_URL!,
         ssl: config.NODE_ENV === "production",

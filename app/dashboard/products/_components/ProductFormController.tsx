@@ -114,7 +114,6 @@ export function ProductActionModal({
 		}, [initialData])
 
 	const form = useForm<FullProductInsertValues>({
-		// @ts-expect-error RHF/Zod type mismatch on numeric strings
 		resolver: zodResolver(fullProductInsertSchema),
 		defaultValues,
 	})

@@ -1,6 +1,6 @@
 export const config = {
     TITLE: "Yudee's Atelier",
-    NODE_ENV: process.env.NODE_ENV || "development",
+    NODE_ENV: "production",
 
     // Security and Environment
     ENC_KEY_1: process.env.ENC_KEY_1 || 'fallback-system-secret-key-one-@123',

@@ -35,7 +35,6 @@ function VerifyEmailContent() {
 	const hasSubmitted = useRef(false)
 
 	const form = useForm<VerifyFormData>({
-        // @ts-expect-error no needed error
 		resolver: zodResolver(verifySchema),
 		defaultValues: { token: "" },
 	})

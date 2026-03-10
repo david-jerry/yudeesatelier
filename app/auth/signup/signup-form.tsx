@@ -43,7 +43,6 @@ export function SignupForm({ className }: { className?: string }) {
 		getValues,
 		formState: { errors, isSubmitting },
 	} = useForm<SignupFormData>({
-		// @ts-expect-error - Zod schema is compatible with RHF
 		resolver: zodResolver(signupSchema),
 		defaultValues: { name: "", email: "", password: "" },
 		mode: "onTouched",

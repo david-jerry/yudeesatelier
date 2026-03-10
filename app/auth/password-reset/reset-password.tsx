@@ -38,7 +38,6 @@ export function ResetPasswordForm({
 		reset,
 		formState: { errors },
 	} = useForm<PasswordFormData>({
-		// @ts-expect-error - Zod schema is compatible with RHF
 		resolver: zodResolver(passwordSchema),
 		defaultValues: { password: "" },
 		mode: "onTouched",

@@ -51,7 +51,6 @@ export function LoginForm({
 		getValues,
 		formState: { errors, isSubmitting },
 	} = useForm<LoginFormData>({
-		// @ts-expect-error - Zod schema is compatible with RHF
 		resolver: zodResolver(loginSchema),
 		defaultValues: { email: "", password: "" },
 		mode: "onTouched",
