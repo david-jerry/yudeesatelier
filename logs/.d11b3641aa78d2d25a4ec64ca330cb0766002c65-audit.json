@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/.d11b3641aa78d2d25a4ec64ca330cb0766002c65-audit.json",
+    "files": [
+        {
+            "date": 1772634550928,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/error-2026-03-04.log",
+            "hash": "bd0c8f1a8870df1471f972149f110b6248d9d26275cc8a7f6944a967576b4b91"
+        },
+        {
+            "date": 1772667065376,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/error-2026-03-05.log",
+            "hash": "21a2e2dfdc70badd025e607d419bdf732a113966de4542c3b83f4d2d839647f7"
+        },
+        {
+            "date": 1772778116148,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/error-2026-03-06.log",
+            "hash": "eab5c51c4d46dfc849b75d406a408746d340722fb0a9cc8f2cc05b3404a8d377"
+        },
+        {
+            "date": 1773094614315,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/error-2026-03-09.log",
+            "hash": "c0f1a040f68d96f8d46e762d3a9165891abf0e3764a6a5b7d8340be9503ed9f1"
+        },
+        {
+            "date": 1773123573505,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/error-2026-03-10.log",
+            "hash": "eafbc9ee55c223ce97c7b2032128680e3c52ba543b9b24e82fb153eb63c5e2e9"
+        }
+    ],
+    "hashType": "sha256"
+}

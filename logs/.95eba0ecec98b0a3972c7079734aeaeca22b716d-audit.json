@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/.95eba0ecec98b0a3972c7079734aeaeca22b716d-audit.json",
+    "files": [
+        {
+            "date": 1773155190719,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/app-2026-03-10.log",
+            "hash": "f8523a488dbb2c6ec5e4feb1b54ce86f1afa693ddafd088ddcfabc95a071fb62"
+        }
+    ],
+    "hashType": "sha256"
+}

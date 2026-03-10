@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/.3575aeac02799686c6488d5a17c337515be63dc5-audit.json",
+    "files": [
+        {
+            "date": 1772634550925,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/app-2026-03-04.log",
+            "hash": "6f7cee6740eea9200e366bba23ad25b92374dc2d7472d3acdd68f544de19eb83"
+        },
+        {
+            "date": 1772667065374,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/app-2026-03-05.log",
+            "hash": "9036f47c5a75ce105edcd78dfa4cacb39a449291d20748d3a7993ee3e559dec2"
+        },
+        {
+            "date": 1772778116141,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/app-2026-03-06.log",
+            "hash": "91013667a2e096aa8ee2dc0a876782860c2687a74ce3c9e37506c1581520df35"
+        },
+        {
+            "date": 1773094614308,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/app-2026-03-09.log",
+            "hash": "42af0456a44077d77c9f01693ca72a03b72bfdadb8853bbe94c62081cebc6119"
+        },
+        {
+            "date": 1773123573343,
+            "name": "/home/bytestream/www/WEB/bytestream/projects/yudeesatelier/logs/app-2026-03-10.log",
+            "hash": "c0139affd2ac3cd7b63c8388b7ae9f4b7cb8d87d089a82c27dd2b4410105cfda"
+        }
+    ],
+    "hashType": "sha256"
+}

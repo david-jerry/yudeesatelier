@@ -1,0 +1,333 @@
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-04T23:31:07.845Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-04T23:36:12.376Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-04T23:36:33.057Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-04T23:36:59.122Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:39:28.176Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:39:42.825Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:42:16.746Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:42:17.804Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:45:31.451Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:45:31.538Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:49:02.914Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:49:03.010Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:50:15.583Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:50:15.598Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:51:52.792Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:51:52.903Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:54:25.706Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:54:25.749Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:59:48.840Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T00:59:48.879Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:11:18.275Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:11:18.343Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:14:17.670Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:14:17.679Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:17:05.382Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:17:05.388Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:20:42.614Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:21:07.310Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:21:07.441Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:21:38.983Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T01:21:39.041Z"}
+{"level":"error","message":"[Auth] Unauthorized access attempt to product archive","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:07:15.629Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:07:16.072Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:07:42.647Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:07:42.656Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:10:04.232Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:10:04.241Z"}
+{"level":"info","message":"[REDIS] Lock acquired: lock:product:pepplon-gown","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:08.492Z"}
+{"level":"info","message":"[Inngest] Background upload initiated for product: 9cf157b4-770c-49c1-a2e7-205ffbad3b1b","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.374Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:context:static","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.400Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:v1:collection","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.404Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.407Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.412Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: admin_dashboard","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.417Z"}
+{"level":"info","message":"[REDIS] Lock released: lock:product:pepplon-gown","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.437Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:09.698Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:11:19.677Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:15:41.621Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:15:41.628Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:15:50.322Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:00.527Z"}
+{"level":"info","message":"[REDIS] Lock acquired: lock:product:suit","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:44.892Z"}
+{"level":"info","message":"[Inngest] Background upload initiated for product: fdc3fe09-789e-4483-b0e9-6a7bd1f3e182","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.280Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:context:static","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.286Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:v1:collection","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.288Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.293Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.294Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: admin_dashboard","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.295Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys matching pattern: products:admin:list:*","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.295Z"}
+{"level":"info","message":"[REDIS] Lock released: lock:product:suit","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.297Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:18:45.482Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:20:17.851Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:22:37.679Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:22:37.687Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:29:02.382Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:29:02.408Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:29:05.753Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:29:10.497Z"}
+{"level":"error","message":"Failed to fetch tags: CacheManager is not defined","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:30:43.513Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:30:43.525Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:30:43.552Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:32:20.741Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:32:20.755Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:33:48.312Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:33:48.317Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:34:11.554Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:34:14.782Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:34:14.806Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:36:17.242Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:36:17.248Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:36:17.278Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:37:18.633Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:37:18.638Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:37:18.771Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:37:56.505Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:37:56.552Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:41:31.866Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:41:31.879Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:41:31.917Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:43:03.355Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:43:03.362Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:43:03.392Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:44:30.592Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:44:30.599Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:44:30.625Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:45:34.857Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:45:34.965Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:45:35.119Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:46:40.969Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:46:40.972Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:46:40.993Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:47:36.612Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:47:36.622Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T08:47:36.674Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:11:49.247Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:11:49.309Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:11:49.826Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:14:30.089Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:14:30.103Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:14:30.143Z"}
+{"level":"info","message":"[REDIS] Lock acquired: lock:product:ashewo-gown","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:54.029Z"}
+{"level":"info","message":"[Inngest] Background upload initiated for: c55c55af-71eb-4cf5-9f2c-e605fb868f44","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.160Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:context:static","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.169Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:v1:collection","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.172Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.425Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.432Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: admin_dashboard","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.436Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: tags","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.438Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys matching pattern: products:admin:list:*","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.438Z"}
+{"level":"info","message":"[REDIS] Lock released: lock:product:ashewo-gown","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.451Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:55.955Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:16:56.073Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:23:34.596Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:23:34.644Z"}
+{"level":"info","message":"[REDIS] Lock acquired: lock:product:parveiw","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.348Z"}
+{"level":"info","message":"[Inngest] Background upload initiated for: f438ecd1-f0bf-4c41-b20c-d5284a9283b1","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.728Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:context:static","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.736Z"}
+{"level":"info","message":"[REDIS] Invalidated cache key: storefront:v1:collection","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.737Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.757Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: products","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.759Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: admin_dashboard","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.759Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys for tag: tags","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.759Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 keys matching pattern: products:admin:list:*","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.759Z"}
+{"level":"info","message":"[REDIS] Lock released: lock:product:parveiw","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.762Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:34.966Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:35.059Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:55.101Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:24:55.126Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:33:27.886Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:33:27.972Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:33:30.884Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:33:30.934Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:53:21.956Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:53:21.986Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:53:22.039Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:53:40.273Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:53:40.417Z"}
+{"level":"info","message":"[Storefront] Synchronizing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:54:00.048Z"}
+{"level":"info","message":"[DB_HIT] Fetching static storefront context (Tags/Featured)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:54:00.053Z"}
+{"level":"info","message":"[DB_HIT] Executing cursor-based product query. Search: None","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T09:54:00.208Z"}
+{"level":"info","message":"[Storefront] Synchronizing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:02:25.062Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:02:25.072Z"}
+{"level":"info","message":"[Storefront] Synchronizing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:07:09.122Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:07:09.247Z"}
+{"level":"info","message":"[Storefront] Synchronizing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:12:59.534Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:12:59.553Z"}
+{"level":"info","message":"[Storefront] Synchronizing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:20:12.395Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:20:12.409Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:23:41.732Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:23:41.758Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:25:00.162Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:25:00.175Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:30:22.357Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:30:22.413Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:55:47.120Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T10:55:47.181Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:03:03.228Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:03:03.247Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:09:39.471Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:09:39.479Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:16:26.096Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:16:26.117Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:24:31.734Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:24:31.750Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:26:31.702Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:26:31.711Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:33:54.014Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:33:54.025Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:34:19.692Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:34:19.698Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:40:56.404Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:40:56.411Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:44:18.800Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:45:59.201Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:45:59.214Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:48:22.667Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:48:22.706Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:49:57.933Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:49:57.941Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:49:58.179Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:51:32.355Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:51:32.380Z"}
+{"level":"info","message":"[Admin] Cache Hit for query \"\": products:admin:list:root:limit:10:q:none","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:58:33.819Z"}
+{"level":"info","message":"Cache Hit: tags:all_list","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:58:33.882Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:59:11.675Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:59:11.739Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:59:28.976Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T11:59:29.006Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T12:04:44.536Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T12:04:44.546Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T12:13:28.101Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T12:13:28.114Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T12:18:54.776Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:07:26.844Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:07:26.869Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:16:33.853Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:16:34.064Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:30:21.662Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:30:21.690Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:31:48.969Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:37:19.632Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:37:20.213Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:45:44.241Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:45:44.252Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:50:55.998Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:55:08.545Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T13:55:08.554Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T15:57:45.059Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:06:02.485Z"}
+{"error":{},"level":"error","message":"[REDIS] Error getting cache key storefront:context:static: ","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:06:13.466Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:06:18.663Z"}
+{"error":{"cause":{},"params":[1,true,4],"query":"select \"product\".\"name\", \"product\".\"slug\", \"product\".\"description\", \"product\".\"base_price\", \"product\".\"quantity\", \"product\".\"featured\", \"product\".\"tag_id\", \"product\".\"id\", \"product\".\"updated_at\", \"product\".\"created_at\", \"product_tag\".\"data\" as \"tag\", \"product_images\".\"data\" as \"images\", \"product_sizeVariants\".\"data\" as \"sizeVariants\" from \"product\" \"product\" left join lateral (select json_build_array(\"product_tag\".\"name\", \"product_tag\".\"slug\", \"product_tag\".\"id\", \"product_tag\".\"updated_at\", \"product_tag\".\"created_at\") as \"data\" from (select * from \"tag\" \"product_tag\" where \"product_tag\".\"slug\" = \"product\".\"tag_id\" limit $1) \"product_tag\") \"product_tag\" on true left join lateral (select coalesce(json_agg(json_build_array(\"product_images\".\"url\", \"product_images\".\"url_id\", \"product_images\".\"product_id\", \"product_images\".\"id\", \"product_images\".\"updated_at\", \"product_images\".\"created_at\")), '[]'::json) as \"data\" from \"product_image\" \"product_images\" where \"product_images\".\"product_id\" = \"product\".\"id\") \"product_images\" on true left join lateral (select coalesce(json_agg(json_build_array(\"product_sizeVariants\".\"product_id\", \"product_sizeVariants\".\"size\", \"product_sizeVariants\".\"extra_amount\", \"product_sizeVariants\".\"id\", \"product_sizeVariants\".\"updated_at\", \"product_sizeVariants\".\"created_at\", \"product_sizeVariants_measurements\".\"data\")), '[]'::json) as \"data\" from \"product_size_variant\" \"product_sizeVariants\" left join lateral (select coalesce(json_agg(json_build_array(\"product_sizeVariants_measurements\".\"product_size_variant_id\", \"product_sizeVariants_measurements\".\"key\", \"product_sizeVariants_measurements\".\"value\", \"product_sizeVariants_measurements\".\"unit\", \"product_sizeVariants_measurements\".\"id\", \"product_sizeVariants_measurements\".\"updated_at\", \"product_sizeVariants_measurements\".\"created_at\")), '[]'::json) as \"data\" from \"product_measurement\" \"product_sizeVariants_measurements\" where \"product_sizeVariants_measurements\".\"product_size_variant_id\" = \"product_sizeVariants\".\"id\") \"product_sizeVariants_measurements\" on true where \"product_sizeVariants\".\"product_id\" = \"product\".\"id\") \"product_sizeVariants\" on true where \"product\".\"featured\" = $2 limit $3"},"level":"error","message":"[Storefront] Sync failed","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:06:22.727Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:16.344Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:16.439Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:17.485Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:22.118Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.553Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.638Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.699Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.740Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.780Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.820Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.854Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.911Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.936Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:32.994Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:33.144Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:33.208Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:33.253Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:39.537Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:39.590Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:39.799Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:40.178Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:21:40.525Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.390Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.395Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.447Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.484Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.518Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.554Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.589Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.624Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.661Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.692Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.724Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.754Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.789Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.820Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.862Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.894Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.939Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:58.971Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.005Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.040Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.081Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.119Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.154Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.189Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.231Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.270Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.310Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.343Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.373Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.410Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.447Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.482Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:22:59.528Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:26:20.737Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:26:20.748Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:26:44.769Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:26:44.773Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:27:01.395Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:27:01.413Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:28:57.614Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:28:57.628Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:10.264Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:13.265Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:13.991Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:16.345Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:17.092Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:20.821Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:44.408Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:46.056Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:29:47.004Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:34.088Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:37.249Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:45.582Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:47.502Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:49.243Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:50.814Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:30:52.680Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:31:55.353Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:31:55.361Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:32:49.396Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:44:16.032Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:44:16.057Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:46:05.486Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:46:05.512Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:46:05.553Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:47:31.735Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:47:31.746Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:47:34.038Z"}
+{"email":"jeremiahedavid@gmail.com","level":"info","message":"Checking email existence","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T16:49:11.625Z"}
+{"level":"info","message":"[MAIL] emails sent successfully to: jeremiahedavid@gmail.com - <1709451b-6ce7-77de-307a-e0b19d7e3f49@gmail.com>","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:02:52.736Z"}
+{"level":"info","message":"[MAIL] emails sent successfully to: jeremiahedavid@gmail.com - <827a940b-78e9-c320-7f3a-a2d6b0218f69@gmail.com>","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:02:55.008Z"}
+{"email":"jeremiahedavid@gmail.com","level":"info","message":"Checking email existence","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:17:51.230Z"}
+{"level":"info","message":"[MAIL] emails sent successfully to: jeremiahedavid@gmail.com - <db7f910f-1f11-3431-2efc-b35741018b34@gmail.com>","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:18:45.037Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:22:45.039Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:22:45.079Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:22:45.282Z"}
+{"email":"jeremiahedavid@gmail.com","level":"info","message":"Checking email existence","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T17:26:28.820Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:30:52.717Z"}
+{"level":"info","message":"[DB_HIT] Fetching wishlist from DB for user: 5ni6E3UBWkyWAz4jv5VUY1amqVhM9lf7","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:30:52.798Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:17.692Z"}
+{"level":"info","message":"[Storefront] Syncing archive. Cursor: Head","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:17.829Z"}
+{"level":"info","message":"[REDIS] Lock acquired: wishlist_add:5ni6E3UBWkyWAz4jv5VUY1amqVhM9lf7:f438ecd1-f0bf-4c41-b20c-d5284a9283b1","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:22.541Z"}
+{"level":"info","message":"[REDIS] Invalidated 1 items for tag: wishlist:5ni6E3UBWkyWAz4jv5VUY1amqVhM9lf7","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:22.585Z"}
+{"level":"info","message":"Wishlist updated. Cache invalidated for user 5ni6E3UBWkyWAz4jv5VUY1amqVhM9lf7","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:22.588Z"}
+{"level":"info","message":"[REDIS] Lock released: wishlist_add:5ni6E3UBWkyWAz4jv5VUY1amqVhM9lf7:f438ecd1-f0bf-4c41-b20c-d5284a9283b1","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:22.699Z"}
+{"level":"info","message":"[DB_HIT] Fetching wishlist from DB for user: 5ni6E3UBWkyWAz4jv5VUY1amqVhM9lf7","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:31:43.898Z"}
+{"level":"info","message":"[REDIS] Successfully connected to Redis","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:33:44.687Z"}
+{"level":"info","message":"Cache Miss: tags:all_list. Fetching from DB...","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:34:41.648Z"}
+{"level":"info","message":"[Admin] Cache Miss: Searching archive for \"\" (Cursor: undefined)","platform":"node","service":"Yudee's Atelier","timestamp":"2026-03-05T20:34:41.778Z"}
