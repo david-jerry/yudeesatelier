@@ -45,7 +45,6 @@ export default function CheckoutForm() {
 	const subtotal = items.reduce((sum, i) => sum + i.price * i.quantity, 0)
 
 	const form = useForm<CheckoutValues>({
-        // @ts-expect-error expected error with RHF
 		resolver: zodResolver(checkoutSchema),
 		defaultValues: {
 			email: user?.email ?? "",
