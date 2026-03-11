@@ -45,7 +45,6 @@ export default function CheckoutForm() {
 	const subtotal = items.reduce((sum, i) => sum + i.price * i.quantity, 0)
 
 	const form = useForm<CheckoutValues>({
-		// @ts-expect-error - We want to allow empty email for logged-in users, but zod doesn't support conditional validation based on user state here. We'll handle this logic in the onSubmit function instead.
 		resolver: zodResolver(checkoutSchema),
 		defaultValues: {
 			email: user?.email ?? "",

@@ -9,11 +9,13 @@ import { toast } from "sonner"
 
 interface AuthProviderProps {
 	children: ReactNode
-	initialUser: User | null
 }
 
-export function AuthProvider({ children, initialUser }: AuthProviderProps) {
+export function AuthProvider({ children }: AuthProviderProps) {
 	const { setUser, isInitialized, setInitialized } = useAuthStore()
+	const { data, isPending, error, isRefetching } = authClient.useSession()
+
+	const initialUser = data?.user as User | null
 
 	/**
 	 * useMemo handles the synchronous sync from Server -> Client Store.
@@ -49,7 +51,7 @@ export function AuthProvider({ children, initialUser }: AuthProviderProps) {
 	}, [initialUser, setUser, setInitialized])
 
 	// 2. Loading State (Only if sync fails or is delayed)
-	if (!isInitialized) {
+	if (!isInitialized || isPending || isRefetching) {
 		return (
 			<div className="fixed inset-0 z-50 flex items-center justify-center bg-background">
 				<div className="flex flex-col items-center gap-4">

@@ -37,27 +37,6 @@ export default async function RootLayout({
 }: Readonly<{
 	children: React.ReactNode
 }>) {
-	const session = await getSafeSession()
-
-	const fixedUser = session?.user
-		? {
-				...session.user,
-				image: session.user.image ?? null,
-				imagePublicId: session.user.imagePublicId ?? null,
-				isAdmin: session.user.isAdmin ?? false,
-				isStaff: session.user.isStaff ?? false,
-				subscribed: session.user.subscribed ?? null,
-			}
-		: null
-
-	console.info(
-		"[RootLayout] Retrieved session and user data for initial auth sync",
-		{
-			sessionExists: !!session,
-			userExists: !!fixedUser,
-			userId: fixedUser?.id ?? "N/A",
-		},
-	)
 
 	return (
 		<html
@@ -67,7 +46,7 @@ export default async function RootLayout({
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
 			>
-				<AuthProvider initialUser={fixedUser}>
+				<AuthProvider>
 					<ThemeProvider
 						attribute="class"
 						defaultTheme="system"
