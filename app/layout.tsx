@@ -5,12 +5,11 @@ import { TooltipProvider } from "@/components/ui/tooltip"
 import TanstackProviders from "@/providers/QueryProvider"
 import { createMetadata } from "@/lib/metadata"
 import LocalToaster from "@/components/common/LocalToaster"
-import { auth } from "@/lib/auth"
-import { headers } from "next/headers"
 import { AuthProvider } from "@/providers/AuthProvider"
 
 import "./globals.css"
 import { ModeToggle } from "@/components/common/Mode"
+import { getSafeSession } from "@/actions/auth"
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 
@@ -38,7 +37,7 @@ export default async function RootLayout({
 }: Readonly<{
 	children: React.ReactNode
 }>) {
-	const session = await auth.api.getSession({ headers: await headers() })
+	const session = await getSafeSession()
 
 	const fixedUser = session?.user
 		? {

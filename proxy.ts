@@ -4,6 +4,11 @@ import { getSessionCookie } from "better-auth/cookies";
 export async function proxy(req: NextRequest) {
     const { pathname } = req.nextUrl;
     const cookie = getSessionCookie(req);
+
+    if (!cookie) {
+        console.info("[Middleware] No session cookie found for request to", pathname);
+    }
+    
     const isAuthenticated = !!cookie;
 
     const isProtectedRoute = pathname.startsWith("/dashboard") || pathname.startsWith("/admin");

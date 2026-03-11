@@ -5,8 +5,8 @@ import { user } from "@/db/models";
 import { and, desc, eq, ilike, lt, or } from "drizzle-orm";
 import { APIResponse, PaginatedAPIResponse } from "@/types/api"; // Path to your APIResponse model
 import { CLogger, pprint } from "@/lib/logger";
-import { headers } from "next/headers";
 import { auth } from "@/lib/auth";
+import { headers } from "next/headers";
 import { cacheManager } from "@/lib/redis";
 import { FullUserResponse, User } from "@/db/models/user";
 
@@ -392,5 +392,20 @@ export async function updateUserBanStatus(
             message: error.message === "USER_NOT_FOUND" ? "User not found" : "Ban action failed",
             timestamp: new Date()
         };
+    }
+}
+
+
+
+export async function getSafeSession() {
+    try {
+        const session = await auth.api.getSession({
+            headers: await headers(),
+        });
+        return session;
+    } catch (error) {
+        // Log the error using your CLogger
+        CLogger.error("Session fetch failed, proceeding as guest", error);
+        return null; // Return null so the UI treats the user as a guest
     }
 }
