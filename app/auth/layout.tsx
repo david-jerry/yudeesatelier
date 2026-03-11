@@ -1,5 +1,4 @@
 import type { Metadata } from "next"
-import "@/app/globals.css"
 import { BackButton } from "@/app/auth/_component/BackButton"
 import { createMetadata } from "@/lib/metadata"
 

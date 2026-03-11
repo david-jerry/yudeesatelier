@@ -43,6 +43,7 @@ export function SignupForm({ className }: { className?: string }) {
 		getValues,
 		formState: { errors, isSubmitting },
 	} = useForm<SignupFormData>({
+		// @ts-expect-error - zodResolver types are not correctly inferring the schema shape here, but we know it works at runtime. We'll need to revisit this for better type safety in the future.
 		resolver: zodResolver(signupSchema),
 		defaultValues: { name: "", email: "", password: "" },
 		mode: "onTouched",

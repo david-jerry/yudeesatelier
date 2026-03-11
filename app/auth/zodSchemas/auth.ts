@@ -4,7 +4,7 @@ import z from "zod";
  * Zod schema for email input validation.
  */
 export const emailSchema = z.object({
-    email: z.email("Invalid email address").nonempty("Email is required"),
+    email: z.string().email("Invalid email address"),
 });
 
 export const passwordSchema = z.object({
@@ -19,7 +19,8 @@ export const passwordSchema = z.object({
  */
 export const signupSchema = z.object({
     email: z
-        .email()
+        .string()
+        .email("Invalid email address")
         .min(1, "Email is required"),
     name: z
         .string()
@@ -34,7 +35,7 @@ export const signupSchema = z.object({
  * Zod schema for login form with email and password.
  */
 export const loginSchema = z.object({
-    email: z.email("Invalid email address").nonempty("Email is required"),
+    email: z.string().email("Invalid email address"),
     password: z
         .string()
         .min(8, "Password must be at least 8 characters")
