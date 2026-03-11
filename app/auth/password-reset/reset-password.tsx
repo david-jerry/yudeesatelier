@@ -38,7 +38,6 @@ export function ResetPasswordForm({
 		reset,
 		formState: { errors },
 	} = useForm<PasswordFormData>({
-		// @ts-expect-error - zodResolver types are not correctly inferring the schema shape here, but we know it works at runtime. We'll need to revisit this for better type safety in the future.
 		resolver: zodResolver(passwordSchema),
 		defaultValues: { password: "" },
 		mode: "onTouched",
