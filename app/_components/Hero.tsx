@@ -32,8 +32,9 @@ export function Hero({ products }: { products: FullProduct[] }) {
 
 	const currentProduct = products[index]
 	const backgroundImage =
-		currentProduct?.images?.[0]?.url ||
-		"https://images.unsplash.com/photo-1445205170230-053b830c6039?q=80&w=2070"
+		currentProduct?.images?.[0]?.url.length > 5
+			? currentProduct.images[0].url
+			: "https://unsplash.com/photos/a-woman-sitting-on-the-ground-with-her-legs-crossed-yjwehHiMGpg"
 
 	return (
 		<section
