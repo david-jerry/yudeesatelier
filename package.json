@@ -44,7 +44,7 @@
     "embla-carousel-react": "^8.6.0",
     "framer-motion": "^12.35.2",
     "html-react-parser": "^5.2.17",
-    "inngest": "^3.52.6",
+    "inngest": "^3.54.0",
     "input-otp": "^1.4.2",
     "ioredis": "^5.10.0",
     "isomorphic-dompurify": "^3.1.0",
